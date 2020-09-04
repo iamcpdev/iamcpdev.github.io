@@ -12,7 +12,7 @@
 }
 
 body {
-	background-color: #252934;
+	background-color: #522B33;
 	color: white;
 }
 
@@ -56,11 +56,11 @@ a, a:visited {
 }
 
 a:hover {
-	color: white;
+	color: #938779;
 }
 
 a, a:visited, a:hover {
-	text-decoration: none;
+	text-decoration: wavy;
 	
 }
 
